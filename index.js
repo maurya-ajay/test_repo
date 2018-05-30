@@ -1,1 +1,1 @@
-console.log('this is test')ass
+console.log('this is test');
